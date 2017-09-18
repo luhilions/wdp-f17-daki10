@@ -1,3 +1,3 @@
-Date: 9/8/2017
-Project Title: Project 1: Headings, Paragraph, and Lists. Project 2: Links
-Note: Submitted on class 9/8/2017 Friday.
+Date: 9/18/2017
+Project Title: Project 3: Image. Project 4: Photo.
+Note: Submitted on class 9/15/2017 Monday.
