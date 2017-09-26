@@ -1,3 +1,3 @@
-Date: 9/18/2017
-Project Title: Project 3: Image. Project 4: Photo.
-Note: Submitted on class 9/15/2017 Monday.
+Date: 9/26/2017
+Project Title: Project 35: table. Project 6: style.
+Note: Submitted on class 9/26/2017 Tuesday.
