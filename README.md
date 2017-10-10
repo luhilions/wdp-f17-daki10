@@ -1,3 +1,3 @@
-Date: 10/2/2017
-Project Title: Project 7: select id. Project 8: chart.
-Note: Submitted on class 10/2/2017 Monday.
+Date: 10/10/2017
+Project Title: Project 9 Project 10 project 11.
+Note: Submitted on class 10/10/2017 Tuesday.
