@@ -1,3 +1,3 @@
-Date: 10/10/2017
-Project Title: Project 9 Project 10 project 11.
-Note: Submitted on class 10/10/2017 Tuesday.
+Date: 10/19/2017
+Project Title: Project 12.
+Note: Submitted on class 10/19/2017 Thursday.
