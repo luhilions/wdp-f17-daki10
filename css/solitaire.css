@@ -2,7 +2,7 @@
 .felt {
       width: 300px;
       height: 300px;
-      background-image: url('felt.jpg');
+      background-image: url('../felt.jpg');
       background-color: green;
       position: relative;
       top: 25px;
@@ -39,7 +39,7 @@
       z-index: 5;
 }
 .gradient {
-      background-image: url('gradient.jpg');
+      background-image: url('../gradient.jpg');
       background-repeat: repeat-x;
       background-color: gray;
 }
