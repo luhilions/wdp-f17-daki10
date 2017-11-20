@@ -5,20 +5,48 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>Web Form</title>
+    <style>
+      .text {
+            width: 500px;
+            background-color: gray;
+            font-family: Tahoma;
+            font-size: 
+            padding-left: 10px;
+            padding-right: 10px;
+            border: 1px solid black;
+             }
+    </style>
   </head>
 
   <body>
     <form class="feedback">
   <fieldset>
     <legend>Give Us Your Feedback</legend>
-    Full name:<br>
-      <input type="text" name="firstname" value=""><br>
-    Year:<br>
+    Full name:<br><br>
+      <input type="text" name="firstname" value=""><br><br>
+    Year:<br><br>
       <input type="radio" name="grade" value="freshman" > Freshman<br>
       <input type="radio" name="grade" value="sophomore"> Sophomore<br>
       <input type="radio" name="grade" value="junior"> Junior<br>
-      <input type="radio" name="grade" value="senior"> Senior<br>
-    Activities:<br>
+      <input type="radio" name="grade" value="senior"> Senior<br><br>
+    Activities:<br><br>
+      <input type="checkbox" name="activity" value="sports" > Sports<br>
+      <input type="checkbox" name="activity" value="theatre"> Theatre<br>
+      <input type="checkbox" name="activity" value="music"> Music<br>
+      <input type="checkbox" name="activity" value="other"> Other<br><br>
+    Quarter:<br><br>
+      <select name="quarters">
+        <option value="spring">Spring</option>
+        <option value="summer">Summer</option>
+        <option value="fall">Fall</option>
+        <option value="winter">Winter</option>
+      </select><br><br>
+    Comments:<br><br>
+        <textarea name="comment" rows="10" cols="30">
+
+        </textarea>
+        
+    
       
     
       <input type="submit" value="Submit">
